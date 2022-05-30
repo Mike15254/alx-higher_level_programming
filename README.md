@@ -2,14 +2,14 @@
 
 Programming using python on the next level of programming.
 
-## 0x00-python-hello_world.
+## Technologies
+. Shell Scripts 
+. Python Scripts version 3.8.5
+. Compiled on Ubuntu 20.04LTS
 
-An introduction to python programming.
+##Projects
+The following projects are done during the studies.
 
-### 0-run.
-A shell script that runs a python script.
+### 0x00-python-hello_world.
 
-### 1-run_inline.
-
-A shell script that runs Pyhton code.
-
+Aims at learning variables,basic commands and handle strings in Python
