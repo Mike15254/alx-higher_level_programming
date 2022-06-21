@@ -1,0 +1,1 @@
+# It aims to learn about object oriented programming(oop),classes,objects,instances,methods and attributes in **Python
