@@ -9,10 +9,10 @@ A task aimed at learning relational databse, **Mysql** , **DDL** and **DML** ,an
 * Install ```mysql-server```
 * file-name | mysql -hlocalhost -uroot -p mysql
   * eg. ```0-list_databases.sql | mysql -hlocalhost -uroot -p mysql
-        Enter password: 
-        Database 
-        hbtn_0c_0 
-        information_schema 
-        mysql
-        performance_schema
-        sys````        
+         Enter password: 
+          Database 
+          hbtn_0c_0 
+          information_schema 
+          mysql
+          performance_schema
+          sys```        
