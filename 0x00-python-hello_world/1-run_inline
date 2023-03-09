@@ -1,2 +1,3 @@
-#!/bin/bash
-python3 -c "$PYCODE"
+#!/bin/bash  # This specifies that the code is written in bash. 
+
+python3 -c "$PYCODE"  # This line calls python3 interpreter and executes the code from $PYCODE variable (which should contain a string representing valid Python code). 
